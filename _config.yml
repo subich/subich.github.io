@@ -22,7 +22,7 @@ nav_exclude: # The following paths are excluded from navbar
 ### Author Info ###
 author:
   name: Stefan Subich
-  image: https://i.imgur.com/uyDNQnn.jpg
+  image:
   email: stefan@subich.dev
   github: subich
   linkedin: subich
@@ -35,25 +35,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-
-### Disqus ###
-disqus:
-  shortname: your-short-name-disqus # Your website Shortname on disqus
-
-### Analytics ###
-analytics:
-  enabled: false # Set true to enable analytics
-  google:
-    tracking_id: your-google-tracking-id
-
-### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting." # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
 
 ### Defaults for collections ###
 defaults:
