@@ -1,0 +1,27 @@
+- name: Python
+  percentage: 90
+  color: primary
+ 
+- name: SQL
+  percentage: 85
+  color: secondary
+ 
+- name: Bash
+  percentage: 85
+  color: secondary
+ 
+- name: Javascript
+  percentage: 80
+  color: secondary
+ 
+- name: HTML / CSS
+  percentage: 80
+  color: secondary
+
+- name: Rust
+  percentage: 70
+  color: secondary
+  
+- name: C
+  percentage: 50
+  color: secondary

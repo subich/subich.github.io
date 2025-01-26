@@ -1,0 +1,20 @@
+- name: Problem Solving
+  percentage: 90
+  color: primary
+ 
+- name: Debugging
+  percentage: 85
+  color: secondary
+ 
+- name: UNIX
+  percentage: 80
+  color: secondary
+ 
+- name: Docker
+  percentage: 80
+  color: secondary
+
+- name: AWS
+  percentage: 80
+  color: secondary
+ 
