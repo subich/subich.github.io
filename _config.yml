@@ -1,9 +1,8 @@
 ### Site Settings ###
 title: Stefan Subich
 description: >-
-  Software Engineer,
-  technology enthusiast,
-  and citizen of the terminal.
+  Endlessly curious; always learning.
+  Software Engineer and technology enthusiast.
 baseurl: ""
 repository: subich/subich.github.io
 remote_theme: yousinix/portfolYOU
