@@ -1,24 +1,23 @@
 - name: Problem Solving
   percentage: 90
   color: primary
- 
-- name: Debugging
+
+- name: Functional Programming
   percentage: 85
+  color: secondary
+
+- name: Object-Oriented Programming
+  percentage: 85
+  color: secondary
+
+- name: UNIX & UNIX-like Systems
+  percentage: 80
   color: secondary
 
 - name: Application Architecture
   percentage: 80
   color: secondary
- 
-- name: UNIX
-  percentage: 80
-  color: secondary
- 
-- name: Docker
-  percentage: 80
-  color: secondary
 
-- name: AWS
+- name: Cloud & Serverless Architecture
   percentage: 80
   color: secondary
- 
