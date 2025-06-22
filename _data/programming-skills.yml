@@ -4,23 +4,23 @@
 
 - name: SQL
   percentage: 85
-  color: secondary
+  color: success
 
 - name: Shell Scripting
   percentage: 85
-  color: secondary
+  color: success
 
 - name: Javascript
   percentage: 80
-  color: secondary
+  color: info
 
 - name: HTML / CSS
   percentage: 80
-  color: secondary
+  color: info
 
 - name: Rust
   percentage: 70
-  color: secondary
+  color: info
 
 - name: C
   percentage: 50

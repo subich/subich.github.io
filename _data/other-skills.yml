@@ -4,11 +4,11 @@
 
 - name: Functional Programming
   percentage: 85
-  color: secondary
+  color: success
 
 - name: Object-Oriented Programming
   percentage: 85
-  color: secondary
+  color: success
 
 - name: UNIX & UNIX-like Systems
   percentage: 80
