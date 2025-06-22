@@ -1,14 +1,14 @@
 - name: Python
   percentage: 95
-  color: primary
+  color: success
 
 - name: SQL
   percentage: 85
-  color: success
+  color: primary
 
 - name: Shell Scripting
   percentage: 85
-  color: success
+  color: primary
 
 - name: Javascript
   percentage: 80

@@ -1,18 +1,18 @@
 - name: Problem Solving
   percentage: 90
-  color: primary
+  color: success
 
 - name: Functional Programming
   percentage: 85
-  color: success
+  color: primary
 
 - name: Object-Oriented Programming
   percentage: 85
-  color: success
+  color: primary
 
 - name: UNIX & UNIX-like Systems
   percentage: 80
-  color: secondary
+  color: info
 
 - name: Application Architecture
   percentage: 80
