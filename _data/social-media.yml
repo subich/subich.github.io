@@ -30,3 +30,8 @@ stackoverflow:
   url   : https://stackoverflow.com/u/
   icon  : fab fa-stack-overflow
   color : f48024
+
+mastodon:
+  url   : https://mastodon.social/
+  icon  : fab fa-mastodon
+  color : 6364ff
