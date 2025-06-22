@@ -32,6 +32,6 @@ stackoverflow:
   color : f48024
 
 mastodon:
-  url   : https://mastodon.social/
+  url   : https://mastodon.social/@
   icon  : fab fa-mastodon
   color : 6364ff
