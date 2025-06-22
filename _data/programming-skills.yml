@@ -1,5 +1,5 @@
 - name: Python
-  percentage: 90
+  percentage: 95
   color: primary
  
 - name: SQL
@@ -23,5 +23,9 @@
   color: secondary
   
 - name: C
+  percentage: 50
+  color: secondary
+
+- name: GO
   percentage: 50
   color: secondary

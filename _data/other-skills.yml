@@ -5,6 +5,10 @@
 - name: Debugging
   percentage: 85
   color: secondary
+
+- name: Application Architecture
+  percentage: 80
+  color: secondary
  
 - name: UNIX
   percentage: 80
