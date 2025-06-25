@@ -5,7 +5,6 @@ description: >-
   Software Engineer and technology enthusiast.
 baseurl: ""
 repository: subich/subich.github.io
-remote_theme: yousinix/portfolYOU
 open_new_tab: false # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 ### Plugins ###
