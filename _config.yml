@@ -29,12 +29,6 @@ author:
 ### Posts ###
 permalink: /blog/:title
 
-### Collections ###
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
-
 ### Defaults for collections ###
 defaults:
   - scope:
@@ -42,15 +36,7 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: false # Set to true to enable disqus comments
 
 ### Exclude from processing ###
 exclude:
-  - README.md
-  - CONTRIBUTING.md
-  - LICENSE
   - "*.log"
