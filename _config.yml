@@ -40,3 +40,4 @@ defaults:
 ### Exclude from processing ###
 exclude:
   - "*.log"
+  - "vendor"
