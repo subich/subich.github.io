@@ -1,7 +1,8 @@
 ### Site Settings ###
 title: Stefan Subich
-description: >-
+tagline: >-
   "I can figure it out."
+description: >-
   Software Engineer and technology enthusiast.
 baseurl: ""
 repository: subich/subich.github.io

@@ -5,9 +5,14 @@
     <div id="container" class="my-2">
       <div id="dummy"></div>
       <div id="element">
-        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animate__animated animate__zoomIn" data-wow-delay=".1s">
+        <img src="{{ site.author.image }}"
+          alt="{{ site.title }}"
+          class="circle-image wow animate__animated animate__zoomIn"
+          data-wow-delay=".1s">
       </div>
     </div>
+
+    <p class="text-body-secondary wow animate__animated animate__slideInUp" data-wow-delay=".15s">{{ site.tagline }}</p>
 
     <p class="text-body-secondary wow animate__animated animate__slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
 
