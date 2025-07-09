@@ -1,11 +1,10 @@
 ### Site Settings ###
 title: Stefan Subich
 description: >-
-  Endlessly curious; always learning.
+  "I can figure it out."
   Software Engineer and technology enthusiast.
 baseurl: ""
 repository: subich/subich.github.io
-remote_theme: yousinix/portfolYOU
 open_new_tab: false # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 ### Plugins ###
@@ -30,12 +29,6 @@ author:
 ### Posts ###
 permalink: /blog/:title
 
-### Collections ###
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
-
 ### Defaults for collections ###
 defaults:
   - scope:
@@ -43,15 +36,8 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: false # Set to true to enable disqus comments
 
 ### Exclude from processing ###
 exclude:
-  - README.md
-  - CONTRIBUTING.md
-  - LICENSE
   - "*.log"
+  - "vendor"

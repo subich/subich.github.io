@@ -21,16 +21,6 @@ linkedin:
   icon  : fab fa-linkedin-in
   color : 007bb5
 
-medium:
-  url   : https://medium.com/@
-  icon  : fab fa-medium
-  color : 00ab6c
-
-stackoverflow:
-  url   : https://stackoverflow.com/u/
-  icon  : fab fa-stack-overflow
-  color : f48024
-
 mastodon:
   url   : https://mastodon.social/@
   icon  : fab fa-mastodon
