@@ -1,9 +1,9 @@
 @mixin themed($property, $light-value, $dark-value) {
-  [data-theme="light"] & {
+  [data-bs-theme="light"] & {
     #{$property}: $light-value;
   }
 
-  [data-theme="dark"] & {
+  [data-bs-theme="dark"] & {
     #{$property}: $dark-value;
   }
 }
