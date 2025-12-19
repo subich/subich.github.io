@@ -1,55 +1,19 @@
-- name: Python
-  percentage: 95
-  color: success
-
-- name: SQL
-  percentage: 85
-  color: primary
-
-- name: Shell Scripting
-  percentage: 85
-  color: primary
-
-- name: Javascript
-  percentage: 80
-  color: info
-
-- name: HTML / CSS
-  percentage: 80
-  color: info
-
-- name: Rust
-  percentage: 70
-  color: info
-
-- name: C
-  percentage: 50
-  color: secondary
-
-- name: GO
-  percentage: 50
-  color: secondary
-
+skills:
 - name: Problem Solving
-  percentage: 90
-  color: success
-
 - name: Functional Programming
-  percentage: 85
-  color: primary
-
 - name: Object-Oriented Programming
-  percentage: 85
-  color: primary
-
-- name: UNIX & UNIX-like Systems
-  percentage: 80
-  color: info
-
 - name: Application Architecture
-  percentage: 80
-  color: secondary
-
 - name: Cloud & Serverless Architecture
-  percentage: 80
-  color: secondary
+
+languages:
+- name: Python
+- name: SQL
+- name: Shell Scripting
+- name: Javascript
+- name: HTML / CSS
+- name: Rust
+- name: C
+- name: GO
+
+technologies:
+- name: UNIX & UNIX-like Systems
