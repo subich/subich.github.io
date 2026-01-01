@@ -20,3 +20,8 @@
 - section_name: Technologies
   entries:
     - name: UNIX & UNIX-like Systems
+    - name: Git & Version Control
+    - name: Docker & Containerization
+    - name: CI/CD Pipelines
+    - name: Cloud Platforms (AWS, GCP, Azure)
+    - name: Relational & NoSQL Databases
