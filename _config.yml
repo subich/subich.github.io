@@ -1,4 +1,3 @@
-### Site Settings ###
 title: Stefan Subich
 tagline: >-
   "I can figure it out."
@@ -8,21 +7,18 @@ baseurl: ""
 repository: subich/subich.github.io
 open_new_tab: false # Opens external URLs in new tab (works for posts, projects and navbar only)
 
-### Plugins ###
 plugins:
   - jemoji
 
-### Navbar Settings ###
 nav_exclude: # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
 
-### Author Info ###
 author:
   name: Stefan Subich
   image: /assets/me.jpeg
-  email: stefan@subich.dev
+  email: s@subich.dev
   github: subich
   linkedin: subich
   mastodon: stefn
@@ -38,7 +34,6 @@ defaults:
     values:
       layout: "page"
 
-### Exclude from processing ###
 exclude:
   - "*.log"
   - "vendor"
