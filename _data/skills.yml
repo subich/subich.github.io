@@ -1,10 +1,10 @@
 - section_name: Skills
   entries:
-  - name: Problem Solving
-  - name: Functional Programming
-  - name: Object-Oriented Programming
-  - name: Application Architecture
-  - name: Cloud & Serverless Architecture
+    - name: Problem Solving
+    - name: Functional Programming
+    - name: Object-Oriented Programming
+    - name: Application Architecture
+    - name: Cloud & Serverless Architecture
 
 - section_name: Languages
   entries:
