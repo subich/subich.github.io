@@ -1,19 +1,22 @@
-skills:
-- name: Problem Solving
-- name: Functional Programming
-- name: Object-Oriented Programming
-- name: Application Architecture
-- name: Cloud & Serverless Architecture
+- section_name: Skills
+  entries:
+  - name: Problem Solving
+  - name: Functional Programming
+  - name: Object-Oriented Programming
+  - name: Application Architecture
+  - name: Cloud & Serverless Architecture
 
-languages:
-- name: Python
-- name: SQL
-- name: Shell Scripting
-- name: Javascript
-- name: HTML / CSS
-- name: Rust
-- name: C
-- name: GO
+- section_name: Languages
+  entries:
+    - name: Python
+    - name: SQL
+    - name: Shell Scripting
+    - name: Javascript
+    - name: HTML / CSS
+    - name: Rust
+    - name: C
+    - name: GO
 
-technologies:
-- name: UNIX & UNIX-like Systems
+- section_name: Technologies
+  entries:
+    - name: UNIX & UNIX-like Systems

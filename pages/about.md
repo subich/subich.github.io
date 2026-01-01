@@ -26,9 +26,7 @@ trust with my leaders, creating a path to architect solutions that
 increase efficiency and explore new opportunities.
 
 <div class="row">
-{% include about/skills.html title="Skills" source=site.data.skills.skills %}
-{% include about/skills.html title="Languages" source=site.data.skills.languages %}
-{% include about/skills.html title="Technologies" source=site.data.skills.technologies %}
+{% include about/skills.html source=site.data.skills %}
 </div>
 
 <div class="row">
