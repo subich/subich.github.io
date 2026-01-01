@@ -121,7 +121,11 @@ Timeline uses `title`, `from`, `to`, `description`.
 
 ### Styling
 
-Edit SCSS in `_sass/`.
+**Prefer Markdown > HTML > CSS for stylistic changes:**
+1. Use Markdown for formatting when possible (headings, emphasis, lists, etc.)
+2. Use HTML when Markdown is insufficient (specific structure, classes, attributes)
+3. Only edit CSS in `_sass/` when the desired effect cannot be accomplished in pure Markdown or HTML
+
 Variables in `_variables.scss`.
 Theme colors in `_theme.scss` and `_theme-dark.scss`.
 
