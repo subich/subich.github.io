@@ -1,6 +1,13 @@
+- title: Software Engineer, ClearSense
+  from: 2026
+  to: present
+  description: |
+    Building AI-native tooling for scalable and repeatable data archiving solutions
+    across a variety of healthcare source systems.
+
 - title: Software Engineer, Enlace Health
   from: 2021
-  to: present
+  to: 2026
   description: |
     Building pipelines and platforms for complex analysis of healthcare data.
     Python microservices on AWS.
